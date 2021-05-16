@@ -1,0 +1,116 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 100;
+    background-color: aquamarine;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background-color: aliceblue;
+    margin-top: 0px
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    border: blue;
+
+}
+
+.picture.hover {
+    color: purple;
+}
+
+.html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace;
+
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-family: 'Orelega One', cursive;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+.links:hover {
+        background-image: linear-gradient(pink, lavender, skyblue);
+        font-size: 25px;
+        text-decoration: underline;
+        color: deeppink;
+        font-family: fantasy;
+    }
+
+
+#a {
+    text-decoration: none;
+    text-shadow: 5px 5px gainsboro;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-size: 25px;
+}
+.picture.hover{
+color: purple;
+}
+#grid{
+    background-image: linear-gradient(pink,#f542a1,yellow);
+}
+#slide{
+  background-image: linear-gradient(pink,#f542a1,yellow);  
+}
+img:hover{
+    transform: scale(.9);
+    
+}
+.line{
+    height: 6px;
+    background-color: paleturquoise;
+    width: 70px;
+    margin: 8px auto;
+}
+#Mycarousel{
+    background-color: darkmagenta;
+    
+}
+#Mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:azure;
+    font-size: 20px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:azure;
+    font-size: 20px;
+    
+}
